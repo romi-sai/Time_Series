@@ -10,8 +10,7 @@
 % coordinate system. It is called in the time_series.m file which also
 % serves as the main function for this project.
 %
-% Functions and Modules in this file: No functions or modules are included
-% in this file.
+% Functions and Modules in this file: paa_s1 function in included in this file.
 %
 % Additional Required Files: None
 %***************************************
